@@ -14,7 +14,7 @@ Admin features
 
 4.Create any number of stations
 
-5.Create Route for each train - Route consists of more than 2 stations
+5.Create Route for each train - Route consists of more than 2 stations with distance between station
 
 6.display all the trains
 
