@@ -6,7 +6,7 @@ RAILWAY RESERVATION SYSTEM
  
 Admin features
 
-1.Login and Logout
+1.Login and Logout\n
 2.Validation
 3.Can insert any number of trains in the application
 4.Create any number of stations
