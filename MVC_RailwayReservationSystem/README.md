@@ -28,6 +28,8 @@ User Features
 2.Validation
 
 3.Can create many number of users(All the users are stored)
+ 
+  User can logout and another can login in 
 
 4.User can book ticket
 
