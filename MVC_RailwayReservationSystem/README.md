@@ -36,9 +36,7 @@ User Features
 6.Shows seat availablity based on boarding station and destination station
 
 * If the train goes from Chennai to Tirunelveli through Coimbatore named Nellai Express
-
 In Nellai Express if a passenger books only from Chennai to Coimbatore then that seat will be empty from Coimbatore to Tirunelveli
-
 In the same seat another passenger can book ticket who want to travel from Coimbatore to Tirunelveli
 
 7.Each user can book many number of tickets
