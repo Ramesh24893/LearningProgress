@@ -63,7 +63,7 @@ Manager Features
 
 1.show branch stats
 
-Stats is about profit,no of accounts, amount prsent
+Stats is about profit,no of accounts, amount present
 
 2.validate credit card request
 
