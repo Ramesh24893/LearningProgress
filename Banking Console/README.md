@@ -10,6 +10,7 @@ USER
 2.WithDraw
 
 3.Online Transfer
+
 For every transaction there are limits based on account type
 Tax will be debited for every transactions and that tax will be added branch reserve amount 
 For Current account extra amount can credited if the balance is low not for savings account
