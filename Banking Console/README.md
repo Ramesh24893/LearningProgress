@@ -34,7 +34,7 @@ Accept or reject message stored in user inbox
 9.Transaction History
 
 Show all deposit,withdraw transaction history
-and show online transaction history for both credited and debited
+and show online transaction history for both credited and debited user account 
 
 10.Account Status
 
@@ -72,6 +72,7 @@ Stats is about profit,no of accounts, amount present
 4.validate branch change request
 
 Manager can accept and reject requests
+Accepted and rejected message will send to corresponding user inbox
 
 5.validate loan request
 
