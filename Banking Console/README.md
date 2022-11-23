@@ -71,5 +71,7 @@ Stats is about profit,no of accounts, amount present
 
 4.validate branch change request
 
+Manager can accept and reject requests
+
 5.validate loan request
 
