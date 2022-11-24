@@ -34,7 +34,10 @@ Accept or reject message stored in user inbox
 9.Transaction History
 
 Show all deposit,withdraw transaction history
-and show online transaction history for both credited and debited user account 
+and transfer amount from one user account to another user account,
+If transaction is made from account1 to account2,
+both account generates transaction history
+
 
 10.Account Status
 
